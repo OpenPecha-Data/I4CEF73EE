@@ -5,16 +5,17 @@ source_metadata:
   title: བྱང་གཏེར་འདོན་ཆའི་སྐོར།
   author: ''
   volumes:
-    62cb349022cb490db7882c3b4357d1e3:
-      image_group_id: I1KG15264
-      title: ''
-      volume_number: 2
-      total_pages: 1460
-    07fcf77efc57439499b437197e495fb6:
+    7e7165d6b2c344f985b547ac50f543a8:
       image_group_id: I5273
       title: ''
       volume_number: 1
       total_pages: 1520
+    8ce71f6f948643f6ac144fc0fce1fa66:
+      image_group_id: I1KG15264
+      title: ''
+      volume_number: 2
+      total_pages: 1460
+      base_file: v001.txt
 ebook_metadata:
   title: བྱང་གཏེར་འདོན་ཆའི་སྐོར།
   author: ''
